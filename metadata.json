@@ -1,0 +1,6 @@
+{
+  "name": "Nobel Conect",
+  "description": "Connecting You to Better Shopping — your trusted online destination for quality products, competitive prices, secure payment gateways, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
